@@ -8,26 +8,26 @@ Documentation for the **Legacy Multiplayer** Lua scripting API.
 
 ### Player & Gameplay
 
-- [Player Functions](Docs/Lua/Player%20Functions.md)
-- [Vehicle Functions](Docs/Lua/Vehicle%20Functions.md)
-- [Actor Functions](Docs/Lua/Actor%20Functions.md)
-- [Object Functions](Docs/Lua/Object%20Functions.md)
-- [Pickup Functions](Docs/Lua/Pickup%20Functions.md)
-- [GangZone Functions](Docs/Lua/GangZone%20Functions.md)
-- [Label Functions](Docs/Lua/Label%20Functions.md)
-- [TextDraw Functions](Docs/Lua/TextDraw%20Functions.md)
-- [Menu Functions](Docs/Lua/Menu%20Functions.md)
-- [World Functions](Docs/Lua/World%20Functions.md)
+- [Player Functions](Docs/Functions/Player%20Functions.md)
+- [Vehicle Functions](Docs/Functions/Vehicle%20Functions.md)
+- [Actor Functions](Docs/Functions/Actor%20Functions.md)
+- [Object Functions](Docs/Functions/Object%20Functions.md)
+- [Pickup Functions](Docs/Functions/Pickup%20Functions.md)
+- [GangZone Functions](Docs/Functions/GangZone%20Functions.md)
+- [Label Functions](Docs/Functions/Label%20Functions.md)
+- [TextDraw Functions](Docs/Functions/TextDraw%20Functions.md)
+- [Menu Functions](Docs/Functions/Menu%20Functions.md)
+- [World Functions](Docs/Functions/World%20Functions.md)
 
 ### Server & Scripting
 
-- [Events](Docs/Lua/Events%20Functions.md)
-- [Timers](Docs/Lua/Timers%20Functions.md)
-- [Variables](Docs/Lua/Variables%20Functions.md)
-- [File Functions](Docs/Lua/File%20Functions.md)
-- [Messaging Functions](Docs/Lua/Messaging%20Functions.md)
-- [NetStats Functions](Docs/Lua/NetStats%20Functions.md)
-- [Constants](Docs/Lua/Constants.md)
+- [Events](Docs/Events%20Functions.md)
+- [Timers](Docs/Functions/Timers%20Functions.md)
+- [Variables](Docs/Functions/Variables%20Functions.md)
+- [File Functions](Docs/Functions/File%20Functions.md)
+- [Messaging Functions](Docs/Functions/Messaging%20Functions.md)
+- [NetStats Functions](Docs/Functions/NetStats%20Functions.md)
+- [Constants](Docs/Functions/Constants.md)
 
 ---
 
