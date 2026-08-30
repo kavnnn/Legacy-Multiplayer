@@ -4,7 +4,7 @@ Documentation for the **Legacy Multiplayer** Lua scripting API.
 
 > **Work in Progress:** The documentation is not complete yet. More functions and events will be documented as development continues.
 
-## 📚 Lua API Documentation
+## Lua API Documentation
 
 ### Player & Gameplay
 
